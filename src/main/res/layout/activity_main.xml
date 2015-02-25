@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.zeng.choujiang.GuaGuaLe
+        android:id="@+id/guaguale"
+        android:layout_centerInParent="true"
+        android:layout_width="200dp"
+        android:layout_height="80dp" />
+
+    <com.example.zeng.choujiang.SnowView
+        android:id="@+id/sanhua"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>
